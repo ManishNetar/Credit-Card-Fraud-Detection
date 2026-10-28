@@ -13,7 +13,7 @@ This project demonstrates the use of supervised learning techniques for fraud de
 ## 🧩 Key Features
 - **Data Preprocessing:** Handling missing values, feature scaling, and data balancing.  
 - **Exploratory Data Analysis (EDA):** Distribution plots and correlation checks to understand data patterns.  
-- **Model Training:** Implemented multiple ML models (e.g., Logistic Regression, Random Forest, Decision Tree).  
+- **Model Training:** Implemented multiple ML models (e.g., Logistic Regression, Random Forest, Gradient Boosting).  
 - **Performance Evaluation:** Compared models using accuracy, precision, recall, and F1-score.  
 - **Visualization:** Displayed class imbalance and confusion matrix using Seaborn and Matplotlib.  
 
